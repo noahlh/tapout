@@ -24,6 +24,7 @@ lib/tapout/reporters/breakdown_reporter.rb
 lib/tapout/reporters/dot_reporter.rb
 lib/tapout/reporters/html_reporter.rb
 lib/tapout/reporters/markdown_reporter.rb
+lib/tapout/reporters/nlh_reporter.rb
 lib/tapout/reporters/outline_reporter.rb
 lib/tapout/reporters/pretty_reporter.rb
 lib/tapout/reporters/progress_reporter.rb
